@@ -18,7 +18,7 @@ This dataset contains a csv table with 1,074 records, one for each company.
 
 📍 MySQL script: [link](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
 
-📍 CSV Data: [unicorn_companies_clean.csv](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/unicorn_companies_clean.csv)
+📍 CSV Data: [superstore.csv](superstore.csv)
 
 ## 📊 Visualization
 
